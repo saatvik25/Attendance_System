@@ -1,0 +1,41 @@
+/* StudentCard.css */
+
+.student-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .student-card.present {
+    background-color: #d2f8d2; /* Light green */
+  }
+  
+  .student-card.absent {
+    background-color: #ffcccc; /* Light red */
+  }
+  
+  .student-name {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .attendance-button {
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .attendance-button.present {
+    color: #2e7d32; /* Dark green */
+  }
+  
+  .attendance-button.absent {
+    color: #d32f2f; /* Dark red */
+  }
+  

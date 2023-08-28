@@ -1,0 +1,29 @@
+/* App.css */
+
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .calendar {
+    margin-bottom: 20px;
+  }
+  
+  .StudentStatus {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .SubmitButton {
+    margin-top: 20px;
+  }
+  
+  /* Add more styling as needed */
+  
