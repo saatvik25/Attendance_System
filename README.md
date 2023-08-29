@@ -57,5 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note:** Replace the placeholders (e.g., `[LICENSE](LICENSE)`) with actual links or information specific to your project.
 
